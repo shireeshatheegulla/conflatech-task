@@ -1,0 +1,98 @@
+section{
+    height:55vh;
+
+}
+.container{
+    max-width: 500px;
+    margin: auto;
+    border:1px lightgray;
+    background-color: black;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.container2{
+    display:block;
+    max-width: 500px;
+    height:50vh;
+    margin: auto;
+    border:1px lightgray;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+
+}
+.box{
+    position: absolute;
+    height:30px;
+    width:30px;
+    left:700px;
+    background-color:gray;
+}
+.p1{
+    position: absolute;
+    top:120px;
+    left:650px;
+}
+button{ 
+    position: absolute;
+    top:350px;
+    left:650px;
+    width:170px;
+    height: auto;
+    color: bisque;
+    background-color: black;
+  
+}
+.btn{
+    position: absolute;
+    top:380px;
+    left:655px;
+    width:170px;
+    height: auto;
+    opacity: 0.5;
+    color: black;
+    background-color:white;
+    
+}
+.c1{
+    position: absolute;
+    left:570px;
+    top:150px;
+}
+.c2{
+    position: absolute;
+    left:670px;
+    top:150px;
+}
+.c3{
+    position: absolute;
+    left:770px;
+    top:150px;
+}
+.c4{
+    position: absolute;
+    left:870px;
+    top:150px;
+}
+.c5{
+    position: absolute;
+    left:570px;
+    top:250px;
+}
+.c6{
+    position: absolute;
+    left:670px;
+    top:250px;
+}
+.c7{
+    position: absolute;
+    left:770px;
+    top:250px;
+}
+.c8{
+    position: absolute;
+    left:870px;
+    top:250px;
+}
