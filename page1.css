@@ -1,0 +1,68 @@
+section{
+    height:55vh;
+
+}
+.container{
+    max-width: 500px;
+    margin: auto;
+    border:1px lightgray;
+    background-color: black;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.container2{
+    display:block;
+    max-width: 500px;
+    height:50vh;
+    margin: auto;
+    border:1px lightgray;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+
+}
+.box{
+    position: absolute;
+    height:30px;
+    width:30px;
+    left:700px;
+    background-color:gray;
+}
+.p1{
+    position: absolute;
+    top:120px;
+    left:650px;
+}
+input{
+    position: absolute;
+    top:170px;
+    left:650px;
+    opacity: 0.5;
+    height:20px;
+}
+button{ 
+    position: absolute;
+    top:210px;
+    left:650px;
+    width:170px;
+    height: auto;
+    color: bisque;
+    background-color: black
+    
+
+    
+}
+.p2{
+    position: absolute;
+    top:250px;
+    left:650px; 
+}
+.p3{
+    position: absolute;
+    top:250px;
+    left:750px;
+    font-weight: bold;
+
+}

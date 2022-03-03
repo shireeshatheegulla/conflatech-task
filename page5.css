@@ -1,0 +1,287 @@
+section{
+    height:200vh;
+
+}
+.container{
+    max-width: 500px;
+    margin: auto;
+    border:1px lightgray;
+    background-color: black;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.container2{
+    display:block;
+    max-width: 500px;
+    height:75vh;
+    margin: auto;
+    border:1px lightgray;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+
+}
+.box{
+    position: absolute;
+    height:30px;
+    width:30px;
+    left:700px;
+    background-color:gray;
+}
+.p1{
+    position: absolute;
+    top:120px;
+    left:650px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.p2{
+    
+    position: absolute;
+    top:150px;
+    left:650px;
+    opacity: 0.5;
+    font-size: 10px;
+    
+
+}
+button{ 
+    position: absolute;
+    top:570px;
+    left:652px;
+    width:170px;
+    height: auto;
+    color: bisque;
+    background-color: black;
+  
+}
+.btn{
+    position: absolute;
+    top:535px;
+    left:655px;
+    width:170px;
+    height: auto;
+    opacity: 0.5;
+    color: black;
+    background-color:white;
+    
+}
+.c1{
+    position: absolute;
+    top:170px;
+    left:650px;
+    opacity: 0.5;
+    width:250px;
+}
+.c2{
+    position: absolute;
+    top:195px;
+    left:650px;
+    opacity: 0.5;
+    width:250px;
+}.c3{
+    position: absolute;
+    top:220px;
+    left:650px;
+    opacity: 0.5;
+    width:250px;
+}
+.c4{
+    position: absolute;
+    top:245px;
+    left:650px;
+    opacity: 0.5;
+    
+}
+.box2{
+    position: absolute;
+    top:275px;
+    left:650px;
+    opacity: 0.5;
+    width:80px;
+    height:20px;
+    border: 1px solid gray;
+}
+.box22{
+    position: absolute;
+    top:275px;
+    left:720px;
+    opacity: 0.5;
+    width:80px;
+    height:20px;
+}
+
+.box3{
+    position: absolute;
+    top:275px;
+    left:740px;
+    opacity: 0.5;
+    width:80px;
+    height:20px;
+    border: 1px solid gray;
+}
+.box32{
+    position: absolute;
+    top:275px;
+    left:810px;
+    opacity: 0.5;
+    width:80px;
+    height:20px;
+}
+.box4{
+    position: absolute;
+    top:300px;
+    left:650px;
+    opacity: 0.5;
+    width:85px;
+    height:20px;
+    border: 1px solid gray;
+}
+.box42{
+    position: absolute;
+    top:300px;
+    left:730px;
+    opacity: 0.5;
+    width:100px;
+    height:20px;
+}
+.box5{
+    position: absolute;
+    top:300px;
+    left:740px;
+    opacity: 0.5;
+    width:85px;
+    height:20px;
+    border: 1px solid gray;
+}
+.box52{
+    position: absolute;
+    top:300px;
+    left:820px;
+    opacity: 0.5;
+    width:100px;
+    height:20px;
+}
+.box6{
+    position: absolute;
+    top:325px;
+    left:650px;
+    opacity: 0.5;
+    width:85px;
+    height:20px;
+    border: 1px solid gray;
+}
+.box62{
+    position: absolute;
+    top:325px;
+    left:730px;
+    opacity: 0.5;
+    width:100px;
+    height:20px;
+}
+.box7{
+    position: absolute;
+    top:325px;
+    left:740px;
+    opacity: 0.5;
+    width:85px;
+    height:20px;
+    border: 1px solid gray;
+}
+.box72{
+    position: absolute;
+    top:325px;
+    left:820px;
+    opacity: 0.5;
+    width:100px;
+    height:20px;
+}
+.container3{
+    position: absolute;
+    top:370px;
+    width: 180px;
+    height: 100px;
+    left:650px;
+    border:1px solid gray;
+    opacity: 0.5;
+
+}
+.heading{
+    position: absolute;
+    top:-13px;
+    left:5px;
+    
+
+}
+.box8{
+    position: absolute;
+    top:9px;
+    left:3px;
+    opacity: 0.5;
+    width:85px;
+    height:20px;
+    border: 1px solid gray;
+}
+.box82{
+    position: absolute;
+    top:10px;
+    left:80px;
+    opacity: 0.5;
+
+
+}
+.box9{
+    position: absolute;
+    top:9px;
+    left:93px;
+    opacity: 0.5;
+    width:85px;
+    height:20px;
+    border: 1px solid gray;
+}
+.box92{
+    position: absolute;
+    top:10px;
+    left:173px;
+    opacity: 0.5;
+    width:100px;
+    height:20px;
+}
+.box10{
+    position: absolute;
+    top:40px;
+    left:3px;
+    opacity: 0.5;
+    width:85px;
+    height:20px;
+    border: 1px solid gray;
+}
+.box102{
+    position: absolute;
+    top:41px;
+    left:80px;
+    opacity: 0.5;
+    width:100px;
+    height:20px;
+}
+.box11{
+    position: absolute;
+    top:40px;
+    left:93px;
+    opacity: 0.5;
+    width:85px;
+    height:20px;
+    border: 1px solid gray;
+}
+.box112{
+    position: absolute;
+    top:41px;
+    left:173px;
+    opacity: 0.5;
+    width:100px;
+    height:20px;
+}
+
+
